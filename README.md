@@ -4,19 +4,19 @@
 <h2>Web development student at the National University of La Matanza.</h2>
 
 ### About me:
- - I am 19 years old and I am from Buenos Aires, Argentina.
- - I am passionate about technology and continuous learning.
+ - I am 19 years old and I am from Buenos Aires, Argentina. <img src="argentina.png" width="20px">
+ - I am passionate about technology and continuous learning. 🛠
 
 <br>
 
+
 <a href="https://github.com/JulianKer?tab=repositories">
-  <img height=150 align="center" src="https://my-stats-43gk.vercel.app/api?username=JulianKer&show_icons=true&theme=merko&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=JulianKer&show_icons=true&theme=merko&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
 </a>
 
+<br>
 
-<img height=150 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=JulianKer&theme=chartreuse-dark"/>
-
-
+<img height=200 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=JulianKer&theme=chartreuse-dark"/>
 
 <a href="https://github.com/JulianKer#js-contribution-activity"><img src="contributions.svg"></a>
 
@@ -35,5 +35,3 @@
 [![LinkedIn](https://img.shields.io/badge/Julián_Gabriel_Schmuker-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juli%C3%A1n-gabriel-schmuker-185358288/)
 
 [![GMail](https://img.shields.io/badge/julianschker@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:julianschker@gmail.com)
-
-
