@@ -16,6 +16,8 @@
 
 <br>
 
+***
+
 <img height=200 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=JulianKer&theme=chartreuse-dark"/>
 
 <a href="https://github.com/JulianKer#js-contribution-activity"><img src="contributions.svg"></a>
