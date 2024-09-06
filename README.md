@@ -4,7 +4,7 @@
 <h2>Web development student at the National University of La Matanza.</h2>
 
 ### About me:
- - I am 19 years old and I am from Buenos Aires, Argentina. <img src="argentina.png" width="20px">
+ - I am 19 years old and from Buenos Aires, Argentina. <img src="argentina.png" width="20px">
  - I am passionate about technology and continuous learning. 🛠
 
 <br>
