@@ -1,7 +1,7 @@
 
-<h1>Hello! I'm Julián Schmuker <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hello! I'm Julián Schmuker <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
-<h2>Web development student at the National University of La Matanza.</h2>
+<h2 align="center">Web development student at the National University of La Matanza.</h2>
 
 ### About me:
  - I am 19 years old and from Buenos Aires, Argentina. <img src="argentina.png" width="20px">
