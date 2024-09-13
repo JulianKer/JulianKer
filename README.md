@@ -22,7 +22,13 @@
 
 <div>
  <img height=200 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=JulianKer&theme=chartreuse-dark"/>
- <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianKer&layout=compact&theme=merko&hide=css)](https://github.com/JulianKer/github-readme-stats"/>
+
+ 
+<br>
+
+***
+
+ <img height=200 width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianKer&layout=compact&theme=merko&hide=css)](https://github.com/JulianKer/github-readme-stats"/>
 </div>
 
 <a href="https://github.com/JulianKer#js-contribution-activity"><img src="contributions.svg"></a>
