@@ -31,7 +31,10 @@
  <img height=200 width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianKer&layout=compact&theme=merko&hide=css)](https://github.com/JulianKer/github-readme-stats"/>
 </div>
 
-<a href="https://github.com/JulianKer#js-contribution-activity"><img src="contributions.svg"></a>
+<p align="center">
+ <a href="https://github.com/JulianKer#js-contribution-activity"><img src="https://github.com/JulianKer/JulianKer/blob/main/snake.svg" alt="Snake animation" /></a>
+</p>
+
 
 <p align="center">
   Visitor count:<br>
