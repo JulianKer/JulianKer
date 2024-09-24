@@ -16,21 +16,21 @@ jobs:
     steps:
       # Descarga el código del repositorio
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3 # Usa la última versión disponible
 
       # Generar la animación de la serpiente
       - name: Generate Snake Animation
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk/svg-only@v3 # Usa la última versión disponible
         with:
           github_user_name: JulianKer
-          outputs: dist/snake.svg
+          outputs: snake.svg # Guardar en la raíz del repositorio
 
-      # Subir el archivo generado al repositorio
+      # Subir el archivo generado al repositorio (en la raíz)
       - name: Commit and push if updated
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add dist/snake.svg # Asegúrate de que esta ruta sea correcta
+          git add snake.svg # Guardar el archivo directamente en la raíz
           git commit -m "Generated snake" || echo "No changes to commit"
           git push
         env:
