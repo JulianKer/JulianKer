@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Descarga el código del repositorio
+      # Descargar el código del repositorio
       - name: Checkout
         uses: actions/checkout@v3 # Usa la última versión disponible
 
@@ -25,13 +25,13 @@ jobs:
           github_user_name: JulianKer
           outputs: snake.svg # Guardar en la raíz del repositorio
 
-      # Subir el archivo generado al repositorio (en la raíz)
+      # Guardar el archivo generado en el repositorio (en la raíz)
       - name: Commit and push if updated
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add snake.svg # Guardar el archivo directamente en la raíz
-          git commit -m "Generated snake" || echo "No changes to commit"
+          git add snake.svg
+          git diff --quiet && git diff --staged --quiet || git commit -m "Generated snake"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Usa el token para permisos de push
