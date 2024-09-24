@@ -32,7 +32,7 @@
 </div>
 
 <p align="center">
- <a href="https://github.com/JulianKer#js-contribution-activity"><img src="https://github.com/JulianKer/JulianKer/blob/main/snake.svg" alt="Snake animation" /></a>
+ <a href="https://github.com/JulianKer#js-contribution-activity"><img src="https://github.com/JulianKer/JulianKer/blob/main/snake.svg" alt="Snake animation" title="JulianKer´s contibutions :)" /></a>
 </p>
 
 
