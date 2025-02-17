@@ -57,14 +57,19 @@
   <img width="23" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="37" alt="apache logo"  />
   <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="37" alt="git logo"  />
+  <img src="https://github.com/JulianKer/JulianKer/blob/main/xammp-logo.svg" height="37" alt="git logo"  />
   <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="37" alt="github logo"  />
+  <img src="https://github.com/JulianKer/JulianKer/blob/main/draw-io.png" height="37" alt="git logo"  />
 </div>
 
 ###
 
 <div align="center">
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="37" alt="git logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="37" alt="github logo"  />
+  <img width="23" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="37" alt="salesforce logo"  />
   <img width="23" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="37" alt="slack logo"  />
