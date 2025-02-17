@@ -51,7 +51,7 @@
   <img width="23" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="37" alt="vscode logo"  />
   <img width="23" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="37" alt="eclipseide logo"  />
+  <img src="https://github.com/JulianKer/JulianKer/blob/main/eclipse.svg" height="37" alt="eclipseide logo"  />
   <img width="23" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="37" alt="figma logo"  />
   <img width="23" />
