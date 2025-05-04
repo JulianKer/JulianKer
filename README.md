@@ -6,7 +6,7 @@
 
 ###
 <h4 align="center">- About me: -</h4>
-<p align="center"> - I'm 20 years old and from Buenos Aires, Argentina. <img src="argentina.png" width="20px"> <br> - I'm passionate about technology and continuous learning. 🛠<br> - I'm currently learning PHP👨🏻‍💻 and Spring🍃.</p>
+<p align="center"> - I'm 20 years old and from Buenos Aires, Argentina. <img src="argentina.png" width="20px"> <br> - I'm passionate about technology and continuous learning. 🛠<br> - I'm currently learning PHP👨🏻‍💻, Spring🍃 and C#.</p>
 
 ###
 
