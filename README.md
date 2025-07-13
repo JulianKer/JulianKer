@@ -6,7 +6,7 @@
 
 ###
 <h4 align="center">- About me: -</h4>
-<p align="center"> - I'm 20 years old and from Buenos Aires, Argentina. <img src="argentina.png" width="20px"> <br> - I'm passionate about technology and continuous learning. 🛠<br> - I'm currently learning PHP👨🏻‍💻, Spring🍃 and C#.</p>
+<p align="center"> - I'm 20 years old and from Buenos Aires, Argentina. <img src="argentina.png" width="20px"> <br> - I'm passionate about technology and continuous learning. 🛠
 
 ###
 
@@ -34,6 +34,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="43" alt="mysql logo"  />
 </div>
 
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="43" alt="csharp logo" />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="39" alt="typescript logo" />
+  <img width="23" />
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="43" alt="Angular logo" />
+  <img width="23" />
+  <img src="https://nodejs.org/static/images/logo.svg" height="43" alt="Node.js logo con texto" />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="43" alt="prisma logo" />
+  <img width="23" />
+</div>
+
+
+<div align="center">
+   <img width="23" />
+
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  <img width="10" />
+  ![Razor](https://img.shields.io/badge/Razor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  <img width="10" />
+  ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-6DB33F?style=for-the-badge&logo=nuget&logoColor=white)
+  <img width="10" />
+  ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+  
+</div>
+  
+
+
 ###
 
 <h4 align="center"></h4>
@@ -50,6 +80,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="37" alt="phpstorm logo"  />
   <img width="23" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="37" alt="vscode logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="37" alt="visual studio logo" />
   <img width="23" />
   <img src="https://github.com/JulianKer/JulianKer/blob/main/eclipse.svg" height="37" alt="eclipseide logo"  />
   <img width="23" />
@@ -93,10 +125,17 @@
   <a href="https://www.linkedin.com/in/juli%C3%A1n-gabriel-schmuker-185358288/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="66" height="43" alt="linkedin logo"  />
   </a>
+  
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=julianschker@gmail.com&su=Consulta%20desde%20GitHub&body=Hola%20Julian,%20te%20escribo%20porque..." target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="66" height="43" alt="gmail logo"  />
   </a>
 </div>
+
+<!--
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juli%C3%A1n-gabriel-schmuker-185358288/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=julianschker@gmail.com&su=Consulta%20desde%20GitHub&body=Hola%20Julian,%20te%20escribo%20porque...)
+-->
 
 ###
 
@@ -109,6 +148,12 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/JulianKer/count.svg?"  />
 </div>
+
+<!--
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JulianKer.JulianKer" />
+</div>
+-->
 
 ###
 
@@ -124,8 +169,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JulianKer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JulianKer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=blue-green&hide_border=true&order=2" height="150" alt="languages graph"  />
+  
   <img src="https://github-profile-trophy.vercel.app?username=JulianKer&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JulianKer&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
