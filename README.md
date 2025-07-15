@@ -25,9 +25,11 @@
   <img width="23" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="43" alt="php logo"  />
   <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="43" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="43" alt="csharp logo" />
   <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="39" alt="typescript logo" />
+  <img width="23" />
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="43" alt="Angular logo" />
   <img width="23" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="43" alt="javascript logo"  />
   <img width="23" />
@@ -36,16 +38,19 @@
 
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="43" alt="csharp logo" />
-  <img width="23" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="39" alt="typescript logo" />
-  <img width="23" />
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="43" alt="Angular logo" />
-  <img width="23" />
   <img src="https://nodejs.org/static/images/logo.svg" height="43" alt="Node.js logo con texto" />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="43" alt="html5 logo"  />
+  <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" alt="css3 logo"  />
   <img width="23" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="43" alt="prisma logo" />
   <img width="23" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" height="43" alt="mustache/handlebars logo" />
+  <img width="23" />
+  <img src="https://cdn.simpleicons.org/thymeleaf" height="30" alt="Thymeleaf logo"/>
+  <img width="23" />
+  
 </div>
 
 
@@ -59,9 +64,7 @@
   ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-6DB33F?style=for-the-badge&logo=nuget&logoColor=white)
   <img width="10" />
   ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-  
 </div>
-  
 
 
 ###
