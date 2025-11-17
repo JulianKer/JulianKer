@@ -148,11 +148,11 @@
 
 <h4 align="center">- Visitor count -</h4>
 
+<!--
 <div align="center">
   <img src="https://profile-counter.glitch.me/JulianKer/count.svg?"  />
 </div>
 
-<!--
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JulianKer.JulianKer" />
 </div>
