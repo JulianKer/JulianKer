@@ -146,9 +146,9 @@
 
 ###
 
+<!--
 <h4 align="center">- Visitor count -</h4>
 
-<!--
 <div align="center">
   <img src="https://profile-counter.glitch.me/JulianKer/count.svg?"  />
 </div>
