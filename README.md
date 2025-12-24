@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Web development student at the National University of La Matanza and Salesforce Consultant.</h3>
+<h3 align="center">Web Developer and Salesforce Consultant.</h3>
 
 ###
 <h4 align="center">- About me: -</h4>
