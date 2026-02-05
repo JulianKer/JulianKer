@@ -1,4 +1,9 @@
-<h1 align="center">Hello! I'm Julián Schmuker <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello!+I'm+Juli%C3%A1n+Schmuker+)](https://git.io/typing-svg)
+
+</h1>
+<!-- <h1 align="center">Hello! I'm Julián Schmuker <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1> -->
 
 ###
 
